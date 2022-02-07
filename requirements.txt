@@ -12,4 +12,4 @@ youtube_dl==2019.7.30
 Flask==0.12.2
 pytube==9.5.1
 PyQt5==5.13.0
-beautifulsoup4==4.8.0
+beautifulsoup4
