@@ -35,7 +35,7 @@ class BotHandler(object):
             with open('.telegram', 'rb') as f:
                 data = pickle.load(f)
 
-            self.token = data['token']
+            self.token = data['2025795130:AAHxP1Ndg0-DpJxdea9ER_PCPjE-7XH_2Cc']
 
         except:
             print('''
