@@ -7,7 +7,7 @@ pyperclip
 requests
 moviepy
 pytube
-imageio
+imageio==2.3.0
 Pillow
 beautifulsoup4
 redis
