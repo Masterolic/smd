@@ -1,4 +1,4 @@
-lxml==4.2.3
+lxml
 mutagen==1.41.0
 spotipy==2.4.4
 youtube_dl==2019.8.13
@@ -10,7 +10,7 @@ moviepy==0.2.3.5
 pytube==9.5.1
 imageio==2.3.0
 Pillow==6.0.0
-beautifulsoup4==4.7.1
+beautifulsoup4
 redis==3.2.0
 lyricsgenius==1.4.0
 proxybroker==0.3.2
