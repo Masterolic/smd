@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO,
 console = logging.StreamHandler()
 console.setLevel(logging.INFO)
 
-manager = Celery('telegram',broker='redis-17249.c261.us-east-1-4.ec2.cloud.redislabs.com:17249')
+manager = Celery('telegram',broker='redis-17218.c263.us-east-1-2.ec2.cloud.redislabs.com:17218')
 #manager = Celery('telegram',broker='redis://localhost:6379/0')
 
 class BotHandler(object):
