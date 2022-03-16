@@ -14,4 +14,4 @@ redis
 lyricsgenius
 proxybroker
 heroku3
-celery
+celery==4.2.1
